@@ -83,7 +83,7 @@ nav a:hover {
   padding: 30px;
 }
 .about-content p {
-  text-align: left;
+  padding: 60px;
   font-family: Georgia, "Times New Roman", Times, serif;
   line-height: 30px;
   max-width: 1500px;
